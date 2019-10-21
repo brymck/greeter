@@ -1,0 +1,4 @@
+grpcio>=1.0,<2.0
+grpcio-tools>=1.0,<2.0
+protobuf>=3.0,<4.0
+brymck_greeting==0.0.1
